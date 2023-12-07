@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bank
+  - road
+  - Car
+  - shield
+  - wall
+  - bot
+  - enemy
+  - proyectile
+  - enemyProyectile
+  - proyectileHitable
+  - player
+  - endRace
+  - SpawnTrigger
+  - atm3
+  - money
+  - atm4
+  - toCarGame
+  - bankCameraChange
+  - atm6
+  - vault
+  - atm7
+  - atm5
+  - atm2
+  - atm1
+  - play
+  - exit
+  - Hack5Spawn1
+  - building
+  - light
+  - nextGame
+  - changeCamera
+  - money1
+  - money2
+  - money3
+  - money4
+  - Hack4
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Lights
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

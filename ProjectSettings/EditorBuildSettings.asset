@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Bank.unity
+    guid: 618d2c0d93338e246a0d151f86d39972
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: ff8b8a8fd0768e44a82e9aea64f81aad
+  - enabled: 1
+    path: Assets/Scenes/Hack1.unity
+    guid: 71254e2c5fde43d47b88113e60f067c7
+  - enabled: 1
+    path: Assets/Scenes/Hack2.unity
+    guid: 2c2deaece048c6c4289e41bc4792a973
+  - enabled: 1
+    path: Assets/Scenes/Hack3.unity
+    guid: f39c28bcb38533d4d9d4744f52337475
+  - enabled: 1
+    path: Assets/Scenes/Hack4.unity
+    guid: 18eaab41881b92243a99a013cbd583a8
+  - enabled: 1
+    path: Assets/Scenes/Hack5.unity
+    guid: 8bd2fffa172f9f8498833a33d1786a25
+  - enabled: 1
+    path: Assets/Scenes/Hack6.unity
+    guid: df5a59d3fd97d7a46a34aa47adaf654f
+  - enabled: 1
+    path: Assets/Scenes/Hack6Skip.unity
+    guid: 44e2e553dc292154f97d9e5345e88443
+  - enabled: 1
+    path: Assets/Scenes/PreRace.unity
+    guid: 67ffba40d12b8af47b4f0cabfe321ab3
+  - enabled: 1
+    path: Assets/Scenes/Race.unity
+    guid: 12d781dc601aaa74ab21b48f4ac64b03
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: 7eca0ae248336ec4288254191599076a
+  m_configObjects: {}
