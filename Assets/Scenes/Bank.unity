@@ -15091,7 +15091,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1674419934
 Transform:
   m_ObjectHideFlags: 0
@@ -17057,6 +17057,10 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 9f50d29e-38ce-4b56-bf70-8d3ba169d942
     m_ActionName: PlayerHACK/Jump[/Keyboard/q]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: cfe86925-222e-4816-a382-2e89cca05385
+    m_ActionName: PlayerHACK/Reset
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: PlayerHACK
